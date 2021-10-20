@@ -60,4 +60,4 @@ buck-out/
 /ios/Pods/
 
 
-Android/app/google.services.json
+devtwitter/android/app/google.services.json
