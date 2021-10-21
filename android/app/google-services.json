@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414494329198",
+    "project_id": "devtwitter-ce933",
+    "storage_bucket": "devtwitter-ce933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414494329198:android:9404964a78cfab1093997f",
+        "android_client_info": {
+          "package_name": "com.devtwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414494329198-raf3nqh03retq8b17og9sle4dkm8o9eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzh8YAAdJdTP8t74368gSIsJlQdauZL5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414494329198-raf3nqh03retq8b17og9sle4dkm8o9eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
